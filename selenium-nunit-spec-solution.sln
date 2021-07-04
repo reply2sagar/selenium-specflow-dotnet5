@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium-nunit-spec", "selenium-nunit-spec\selenium-nunit-spec.csproj", "{17A398CA-4520-4900-B489-A19837B34B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A398CA-4520-4900-B489-A19837B34B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A398CA-4520-4900-B489-A19837B34B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A398CA-4520-4900-B489-A19837B34B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A398CA-4520-4900-B489-A19837B34B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C67FCA2-FE74-4263-80EE-8E327D0DF983}
+	EndGlobalSection
+EndGlobal
